@@ -1,0 +1,13 @@
+{
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "./",
+  "entryFile": "Bootstrap",
+  "compilerOptions": {
+    "assets": [
+      {
+        "include": "./packages/*.yaml",
+        "outDir": "./dist"
+      }
+    ]
+  }
+}
