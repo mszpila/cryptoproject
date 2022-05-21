@@ -39,3 +39,4 @@ lerna-debug.log*
 
 # configs
 *.yaml
+/yarn.lock
