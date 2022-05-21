@@ -13,16 +13,16 @@ Prepare YAML configs based on examples.
 $ yarn start
 
 # development watch mode
-$ npm run start:dev
+$ yarn start:dev
 
 # development watch mode with external services
-$ npm run start:ext
+$ yarn start:ext
 
 # production watch mode
-$ npm run start:prod
+$ yarn start:prod
 
 # production mode
-$ npm run start:prod
+$ yarn start:prod
 ```
 
 ## Test
